@@ -1,0 +1,8 @@
+.env
+.vscode
+
+*venv
+
+__pycache__
+
+Assess._Python_API_Devxlsx.xlsx
