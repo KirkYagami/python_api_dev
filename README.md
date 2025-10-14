@@ -10,6 +10,10 @@
     - https://realpython.com/ref/builtin-functions/dir/
 3. tuples: https://medium.com/nerd-for-tech/tuples-and-namedtuple-in-python-8df24bda15f2
 
+4. Exception handling
+    - https://www.datacamp.com/tutorial/exception-handling-python
+    - 
+
 
 ---
 ### Class Notebooks:
