@@ -14,6 +14,9 @@
     - https://www.datacamp.com/tutorial/exception-handling-python
     - 
 
+5. OOP
+    - https://www.datacamp.com/tutorial/encapsulation-in-python-object-oriented-programming 
+
 
 ---
 ### Class Notebooks:
