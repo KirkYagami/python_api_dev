@@ -15,7 +15,10 @@
     - 
 
 5. OOP
+    - https://realpython.com/python-getter-setter/
+
     - https://www.datacamp.com/tutorial/encapsulation-in-python-object-oriented-programming 
+
 
 
 ---
