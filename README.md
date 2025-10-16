@@ -26,7 +26,6 @@
 1. 01_Python_basics:https://colab.research.google.com/drive/1Hj3vHnXiFuKMzDyTy7dDqNxEO6NeYK8O?usp=sharing
 
 
-
 ---
 <div align="center">
 Made with ❤️ by Nikhil Sharma
