@@ -28,6 +28,12 @@
 1. 01_Python_basics:https://colab.research.google.com/drive/1Hj3vHnXiFuKMzDyTy7dDqNxEO6NeYK8O?usp=sharing
 
 
+
+### Practice SQL
+1. SQUID GAME: https://datalemur.com/sql-game/level1.html
+2. Murder Mystery: https://mystery.knightlab.com/
+3. https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
+
 ---
 <div align="center">
 Made with ❤️ by Nikhil Sharma
