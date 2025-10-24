@@ -16,9 +16,11 @@
 
 5. OOP
     - https://realpython.com/python-getter-setter/
-
     - https://www.datacamp.com/tutorial/encapsulation-in-python-object-oriented-programming 
 
+6. Profiling
+    - https://www.turing.com/kb/python-code-with-cprofile
+    - https://www.analyticsvidhya.com/blog/2024/05/profiling-python-code-using-timeit-and-cprofile/ 
 
 
 ---
