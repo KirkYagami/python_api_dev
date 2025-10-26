@@ -30,6 +30,7 @@
 
 ## SQL
 1. https://www.interviewbit.com/database-testing-interview-questions/
+2. https://www.freecodecamp.org/news/acid-databases-explained/
 
 ### Practice SQL
 1. SQUID GAME: https://datalemur.com/sql-game/level1.html
