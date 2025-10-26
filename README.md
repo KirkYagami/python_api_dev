@@ -28,6 +28,8 @@
 1. 01_Python_basics:https://colab.research.google.com/drive/1Hj3vHnXiFuKMzDyTy7dDqNxEO6NeYK8O?usp=sharing
 
 
+## SQL
+1. https://www.interviewbit.com/database-testing-interview-questions/
 
 ### Practice SQL
 1. SQUID GAME: https://datalemur.com/sql-game/level1.html
