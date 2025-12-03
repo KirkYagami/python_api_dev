@@ -14,22 +14,19 @@ const initApp = () => {
     const doSomething = () => {
     alert('Doing something');
     };
-
-
   view.addEventListener('click', (e) => {
   view.style.backgroundColor = 'purple';
-}, true); // useCapture = true
+}, useCapture = false); // useCapture = true
 
 // Stop bubbling at the DIV level
 div.addEventListener('click', (e) => {
   e.stopPropagation(); // Event won't reach VIEW
   div.style.backgroundColor = 'blue';
-}, false);
+}, useCapture = false);
 
 h2.addEventListener('click', (e) => {
   e.target.textContent = 'Clicked';
-}, true);
-
+}, useCapture = false);
 
 
 
